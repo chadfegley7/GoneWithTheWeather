@@ -1,0 +1,6 @@
+framework module Pods_Gone_With_The_WeatherUITests {
+  umbrella header "Pods-Gone With The WeatherUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

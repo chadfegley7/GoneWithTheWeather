@@ -1,0 +1,6 @@
+framework module Pods_Gone_With_The_Weather {
+  umbrella header "Pods-Gone With The Weather-umbrella.h"
+
+  export *
+  module * { export * }
+}
